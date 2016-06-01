@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 31 14:57:07 2016
-
-@author: Minhyun Yoo
-"""
-
-"""
 Created on Tue May 10 10:35:12 2016
 
 @author: Minhyun
