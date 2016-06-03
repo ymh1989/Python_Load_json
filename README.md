@@ -8,4 +8,4 @@
 
 ###Example###
 - Loads json(JavaScript Object Notation) Equity Linked Securities(ELS), Derivatives Linked Securities(DLS) data from [DART](https://dart.fss.or.kr/)
-- Note that every expressions which can cause security issues are removed(i.e. issuer_name).
+- Note that all contents which can cause security issues are removed(i.e. issuer_name).
